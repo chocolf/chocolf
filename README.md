@@ -1,4 +1,3 @@
-# Hi!
 ## About me
 I am a third year Cyber Security student currently making Spigot plugins in my free time.
 ## My Projects
