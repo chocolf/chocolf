@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi!
+## About me
+I am a third year Cyber Security student currently making Spigot plugins in my free time.
+## My Projects
+# MoneyFromMobs
+Find MoneyFromMobs here!
+# SafeFly
+Find SafeFly here!
 
 <!--
 **chocolf/chocolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
