@@ -1,11 +1,14 @@
 ## About me
-I am a third year Cyber Security student currently making Spigot plugins in my free time.
-## My Projects
-### MoneyFromMobs
-Find MoneyFromMobs here!
-### SafeFly
-Find SafeFly here!
+I am a third year Cyber Security student currently making Spigot plugins in my free time.  
 
+## My Projects
+### [MoneyFromMobs](https://github.com/chocolf/MoneyFromMobs)
+A Spigot plugin that makes mobs drop money with looting multiplier
+### [SafeFly](https://github.com/chocolf/SafeFly)
+A Spigot plugin that allows you to choose to disable PvP, PvE, Mob Targeting, Items and more when a player is flying
+
+## Contact me
+Having trouble with one of my plugins or want to request a feature? [PM me on Spigot!](https://www.spigotmc.org/conversations/add?to=chocolf)
 <!--
 **chocolf/chocolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
