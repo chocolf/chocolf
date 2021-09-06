@@ -4,14 +4,14 @@ I am a third year Cyber Security student currently making Spigot plugins in my f
 # My Projects
 ## MoneyFromMobs
 A Spigot plugin that makes mobs drop money with customizable visuals and a looting enchantment multiplier  
-### Pages:
+Pages:
 * [GitHub Page](https://github.com/chocolf/MoneyFromMobs)
 * [Wiki](https://github.com/chocolf/MoneyFromMobs/wiki)
 * [Spigot Page](https://www.spigotmc.org/resources/money-from-mobs-1-12-1-17-1.79137/)
   
 ## SafeFly
 A Spigot plugin that allows you to choose to disable PvP, PvE, Mob Targeting, Items and more when a player is flying  
-### Pages:
+Pages:
 * [GitHub Page](https://github.com/chocolf/SafeFly)
 * [Spigot Page](https://www.spigotmc.org/resources/safe-fly-1-13-1-17-1.86512/)  
   
