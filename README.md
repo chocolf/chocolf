@@ -1,5 +1,5 @@
 # About me
-I am a third year Cyber Security student currently making Spigot plugins in my free time.  
+Third year Cyber Security student working on Spigot plugins when I have the time!!
 
 # My Projects
 ## MoneyFromMobs
