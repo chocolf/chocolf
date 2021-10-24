@@ -3,7 +3,7 @@ Third year Cyber Security student working on Spigot plugins when I have the time
 
 # My Projects
 ## MoneyFromMobs
-A Spigot plugin that makes mobs drop money with customizable amounts,drop chance, visuals and a looting enchantment multiplier.  
+A Spigot plugin that makes mobs drop money with customizable amounts, drop chance, visuals, looting enchantment multiplier and more.  
 * [GitHub Page](https://github.com/chocolf/MoneyFromMobs)
 * [Wiki](https://github.com/chocolf/MoneyFromMobs/wiki)
 * [Spigot Page](https://www.spigotmc.org/resources/money-from-mobs-1-12-1-17-1.79137/)
